@@ -1,7 +1,3 @@
-<div align="center">
-  <a href="https://www.buymeacoffee.com/CollectiveX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
-
 <h3 align="center">Spotify Playing 🎧</h3>
 <div align="center">
   <a href="https://discord.gg/mHjtqtu3Vg">
@@ -18,10 +14,10 @@
 </div
 
 <div align="center"> 
-<h2 align="center">Language</h2>
+<h2 align="center">Tools</h2>
   <div align="center"> 
      <a href="https://discord.gg/mHjtqtu3Vg">
-     <img src="https://skillicons.dev/icons?i=lua,js,mysql,py,php" />
+     <img src="https://skillicons.dev/icons?i=lua,vscode,visualstudio,windows,twitter,sublime,pug,ps" />
     </a>
   </div>
 </div>
